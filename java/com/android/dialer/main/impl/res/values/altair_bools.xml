@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2018-2024 crDroid Android Project
+     SPDX-FileCopyrightText: 2025-2026 Altair ROM Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+
+    <bool name="light_navigation_bar">true</bool>
+</resources>
